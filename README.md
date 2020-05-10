@@ -1,2 +1,22 @@
 # nuxt-vuex-modules-demo
-A demo on how use Vuex modules and nested modules in NuxtJs
+
+> Nuxt project example of vuex store module setup and using
+
+## Build Setup
+
+```bash
+# install dependencies
+$ npm install
+
+# serve with hot reload at localhost:3000
+$ npm run dev
+
+# build for production and launch server
+$ npm run build
+$ npm run start
+
+# generate static project
+$ npm run generate
+```
+
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).

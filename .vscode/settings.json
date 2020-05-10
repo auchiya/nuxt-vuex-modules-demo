@@ -1,0 +1,19 @@
+{
+  "files.eol": "\n",
+  "editor.formatOnSave": true,
+  "vetur.validation.template": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "material-icon-theme.activeIconPack": "vue_vuex",
+  "window.autoDetectColorScheme": true,
+  "vetur.format.defaultFormatter.html": "prettier",
+  "eslint.validate": [
+    "vue",
+    "html",
+    "javascript",
+    "typescript",
+    "javascriptreact",
+    "typescriptreact"
+  ]
+}
