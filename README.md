@@ -1,3 +1,5 @@
+[See the explanation in my medium post](https://medium.com/@auchiya/vuex-and-nuxtjs-get-modules-working-f6115ae05f6f)
+
 # nuxt-vuex-modules-demo
 
 > Nuxt project example of vuex store module setup and using
